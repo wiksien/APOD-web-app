@@ -1,2 +1,5 @@
 # No modules
 node_modules
+
+#No config file
+config.env
